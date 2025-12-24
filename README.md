@@ -1,20 +1,18 @@
 # Automatisation intelligente de l’analyse des feedbacks clients
 
 ## Contexte
-Les entreprises reçoivent un volume massif de feedbacks clients non structurés,
-peu exploités pour la prise de décision.
+Les entreprises reçoivent enormément de retours clients, c'est-à-dire des avis clients,qui sont généralement non structurés et
+peu exploités pour la prise de décision. 
 
 ## Objectif
-Construire une pipeline NLP automatisée permettant :
+L'objectif est donc de construire une pipeline NLP automatisée permettant :
 - la collecte de feedbacks clients
 - leur analyse sémantique
 - la restitution d’insights métiers via un dashboard
 
 ## Stack technique
-- Python, SQL
-- scikit-learn, spaCy
+- Python (scikit-learn)
 - Web scraping (BeautifulSoup, Selenium)
-- PostgreSQL, MongoDB
 - Power BI
 
 ## Structure du projet
