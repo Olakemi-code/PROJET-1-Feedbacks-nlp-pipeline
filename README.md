@@ -19,7 +19,7 @@ L'objectif est donc de construire une chaîne automatisée permettant :
 - préparation des données pour le machine learning
 3. Analyse thématique  
 - vectorisation TF-IDF
-- clustering non supervisé (KMeans)
+- clustering non supervisé (KMeans/LDA)
 - extraction des mots clés par cluster
 4. Restitution  
 - dashboard Streamlit
