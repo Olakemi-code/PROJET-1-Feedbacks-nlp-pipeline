@@ -21,6 +21,10 @@ L'objectif est donc de construire une chaîne automatisée permettant :
 - vectorisation TF-IDF
 - clustering non supervisé (KMeans/LDA)
 - extraction des mots clés par cluster
+- interpretation des clusters
+4. Modélisation
+- chargement d'un modèle pré-entrainé distilbert
+- prédiction du sentiment (positif ou négatif) par cluster
 4. Restitution  
 - dashboard Streamlit
 - visualisation des thèmes
@@ -54,4 +58,5 @@ PROJET_1/
 Le dashboard permet de :
 - visualiser les indicateurs clés
 - explorer les thèmes identifiés
+- visualiser les sentiments par cluster
 - consulter des exemples d'avis par cluster
